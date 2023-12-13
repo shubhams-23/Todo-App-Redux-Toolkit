@@ -1,0 +1,28 @@
+
+body {
+    background-color:#fff5d7;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    color: solid #e1b382;
+    margin: 10px 0;
+  }
+  
+  button {
+    background-color: #ffaaab;
+    border-color:solid black;
+    margin-left: 10px;
+  }
+  
